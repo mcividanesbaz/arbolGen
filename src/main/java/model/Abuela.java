@@ -84,7 +84,8 @@ public class Abuela
 	 */
 	
 	public String ponerAlturaAbu2() {
-		// TODO implement me
+	int altura;	
+// TODO implement me
 		return "";	
 	}
 	
